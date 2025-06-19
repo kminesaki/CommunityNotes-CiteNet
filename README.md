@@ -1,4 +1,4 @@
-# CommunityNotes-CIteNet
+# CommunityNotes-CiteNet
 This repository contains the code in the following paper.
 
 Minesaki, K.: Mapping Media Contexts in Community Notes: A Citation Network Analysis of Media
