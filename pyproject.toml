@@ -1,0 +1,15 @@
+[project]
+name = "communitynotes-citenet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv-python>=0.0.1",
+    "google-generativeai>=0.8.5",
+    "matplotlib>=3.10.3",
+    "pandas>=2.3.0",
+    "requests>=2.32.4",
+    "seaborn>=0.13.2",
+    "transformers>=4.52.4",
+]
