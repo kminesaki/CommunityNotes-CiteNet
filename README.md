@@ -1,7 +1,7 @@
 # CommunityNotes-CiteNet
 This repository contains the code in the following paper.
 
-Minesaki, K.: Mapping Media Contexts in Community Notes: A Citation Network Analysis of Media
+Minesaki, K.: Characterizing Cited Media in Community Notes: Fact-Checking Factuality, Partisan Bias, and Co-Citation Network Analysis.
 
 ## Research Question
 ### In what contect specific media are likely to be cited in Community Notes on X?
