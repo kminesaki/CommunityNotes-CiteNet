@@ -32,4 +32,4 @@ Reference: X Community Notes. (n.d.). Downloading data. https://communitynotes.x
 |summary|Notes containing "Trump", "Biden", "Kamala" or "Harris"|
 |currentStatus|Notes rated as "CURRENTLY_RATED_HELPFUL" or "CURRENTLY_RATED_NOT_HELPFUL"|
 
-## File Description
+
