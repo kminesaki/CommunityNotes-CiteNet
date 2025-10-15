@@ -1,7 +1,7 @@
 # CommunityNotes-CiteNet
 This repository contains the code in the following paper.
 
-Minesaki, K.: Characterizing Cited Media in Community Notes: Fact-Checking Factuality, Partisan Bias, and Co-Citation Network Analysis.
+Minesaki, K., & Baird, C.: Source Fragmentation in a Crowdsourced Fact-Checking System: Co-Citation Patterns in X Community Notes.
 
 ## Research Question
 ### In what contect specific media are likely to be cited in Community Notes on X?
